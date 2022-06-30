@@ -58,7 +58,7 @@ ul li a:hover {
 
 footer {
     background-color: #363232;
-    position: absolute;
+    position: fixed;
     bottom:0px;
     height:70px;
     width:100%;
